@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Frontend or Full Stack Developer
 - 📫 How to reach me ...srikantakhilar45@gmail.com 
 - 😄 Pronouns: ...Srikant
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...🤪
 
 <!---
 srikanta2244/srikanta2244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
