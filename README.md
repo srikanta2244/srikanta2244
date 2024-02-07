@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning, working
 - 🌱 I’m currently learning ...DSA JAVA, React, NodeJS, sql and more Frameworks
 - 💞️ I’m looking to collaborate on ...Frontend or Full Stack Developer
-- 📫 How to reach me ...srikantakhilar45@gmail.com 
+- 📫 How to reach me ... srikantakhilar45@gmail.com
 - 😄 Pronouns: ...Srikant
 - ⚡ Fun fact: ...🤪
 
